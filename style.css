@@ -1,0 +1,105 @@
+body {
+	margin: 0;
+	padding: 0;
+	line-height: 1.5em;
+    font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+    color: #ffffff;
+	background: #adadad;
+}
+
+
+h1.title {
+	font-size: 40pt;
+	font-variant: small-caps;
+	font-weight: bold;
+	text-align:center;
+	margin-top: 30px;
+	margin-bottom: 25px; 
+	
+	}
+	
+h2.titletop {
+	font-size: 25pt;
+	font-weight: bold;
+	text-decoration: underline;
+	font-variant: small-caps;
+	padding-bottom: 0px;
+	margin-bottom: 25px;
+	font-family: segoe script
+}
+	
+h2.name{
+	font-size: 20pt;
+	font-weight: bold;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	font-family: Palatino Linotype
+}
+
+h2.information{
+	font-size: 11pt;
+	font-weight: normal;
+	padding-bottom: 0px;
+	margin-bottom: 25px;
+	font-family: Palatino Linotype
+}
+
+h2.subtitle{
+	font-size: 11pt;
+	font-weight: bold;
+	padding-bottom: 0px;
+	margin-bottom: 25px;
+	font-family: Palatino Linotype;
+	text-align:left;
+	margin-left:50px;
+	margin-right:50px;
+}
+
+h2.content{
+	font-size: 10pt;
+	font-weight: normal;
+	padding-bottom: 0px;
+	margin-bottom: 25px;
+	font-family: Palatino Linotype;
+	text-align:left;
+	margin-left:210px;
+	margin-right:210px;
+}
+	
+a { text-decoration:none; font-weight: bold; font-family:algerian;}
+a:link, a:visited { color: #ffffff; }	
+a:link.resume , a:visited.resume  { color:8c8c8c; text-decoration:underline; }	
+a:hover, a:hover.resume { color: #ffffff; background-color: #8c8c8c;}
+
+img {border: none}
+ul { margin:0px; padding:0; list-style:none;}
+li { margin-left:20px; margin-bottom:40px; margin-top:20px;margin-right:20px;padding:0px;}
+bo{font-weight: bold;}
+ri{padding:20px}
+rig{padding:66px}
+#wrap {margin:0 auto; background:#adadad;}
+#header { background:#8c8c8c; padding:5px 10px;}
+#nav { background:#adadad; padding:5px 10px; text-align:center;margin-bottom:10px;margin-top:10px;}
+#nav li  {display: inline;list-style-type: none; padding-right: 20px; font-size: 25pt; font-variant:small-caps;}
+#lsidebar { background:#ffffff; float:left; width:300px; padding:10px;margin-left:50px ;height:820px;}
+#main {background:#adadad; float:left; width:720px; padding-top:0px; padding-left:50px; padding-right:50px; padding-bottom:10px; margin-bottom:0; height:810px; 
+font-family:segoe script;font-size:12pt;font-style:italic;font-weight:bold;border:10px dashed #ffffff;}
+#footer { background:#adadad; clear:both; padding:5px 10px; }
+#footer p { margin:0; font-style:italic; text-align:center; font-size:small;font-size:12pt}
+#resume {background:#adadad; width:900px; margin:auto; padding:20px; text-align:center; }
+.polaroid {
+			border: none; 
+			background: #ffffff;
+			width: 250px;
+			padding: 20px;
+			margin-right: auto;
+			margin-left: auto;
+			margin-top: 20px;
+			margin-bottom: 20px;
+			text-align: center;
+			font-weight:bold;
+			color:#000000;
+			font-family:kristen itc
+			
+			}

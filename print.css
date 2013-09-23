@@ -1,0 +1,44 @@
+body {
+    color: #000000;
+	background: #ffffff;
+	font-size:10;
+	font-family:Palatino Linotype
+	
+}
+
+h2.name{
+	font-size: 20pt;
+	font-weight: bold;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+}
+
+h2.information{
+	font-size: 11pt;
+	font-weight: normal;
+	padding-bottom: 0px;
+	margin-bottom: 25px;
+}
+
+h2.subtitle{
+	font-size: 11pt;
+	font-weight: bold;
+	padding-bottom: 0px;
+	margin-bottom: 25px;
+	text-align:left;
+	margin-left:50px;
+	margin-right:50px;
+}
+
+h2.content{
+	font-size: 10pt;
+	font-weight: normal;
+	padding-bottom: 0px;
+	margin-bottom: 25px;
+	text-align:left;
+	margin-left:210px;
+	margin-right:210px;
+}
+#header{display:none;}
+#footer{display:none;}
+#nav{display:none;}
